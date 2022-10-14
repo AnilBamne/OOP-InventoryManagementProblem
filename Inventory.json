@@ -1,0 +1,15 @@
+{
+  "TyepesOfRice": [
+
+    {
+      "name": "rice",
+      "weight": 2,
+      "price": 200;
+    },
+    {
+      "name": "basmati",
+      "weight": 3,
+      "price": 220;
+    }
+  ]
+}
